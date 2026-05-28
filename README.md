@@ -3,7 +3,7 @@ Dashboard em Power BI para análise de ganhos, corridas, transferências e taxas
 
 ## 🎥 Preview
 
-![Preview do Dashboard](assets/dashboard-preview.gif)
+![Preview do Dashboard](ativos/dashboard-preview.gif)
 
 ## 📌 Objetivo
 
