@@ -53,3 +53,28 @@ O projeto contou com um fluxo de ETL desenvolvido no Power Query, responsável p
    - Construção dos indicadores e visuais do dashboard.
 
 Esse processo permitiu transformar dados originalmente pouco estruturados em informações organizadas e úteis para análise financeira e operacional.
+
+Antes e Depois do ETL
+Dados extraídos do PDF (Antes)
+
+Inserir imagem do dado bruto extraído do PDF
+
+Os dados chegam com estrutura pouco organizada, contendo colunas genéricas, cabeçalhos repetidos e informações distribuídas em diferentes posições da tabela, dificultando análises e consolidações.
+
+Dados tratados e padronizados (Depois)
+
+Inserir imagem da tabela tratada no Power Query
+
+Após a aplicação das regras de transformação, os dados passam a possuir estrutura consistente, categorias padronizadas, datas e horários tratados e colunas preparadas para modelagem e análise no Power BI.
+
+Exemplo de Padronização de Categorias
+Valor Original	Valor Padronizado
+UberX	Uber X
+Uberx	Uber X
+uber x	Uber X
+Comfort Planet	Comfort
+Comfort Electric	Comfort
+Uber Planet	Uber X
+Black SUV	Black
+
+A padronização garante que categorias equivalentes sejam analisadas de forma agrupada, evitando distorções nos indicadores e dashboards.
