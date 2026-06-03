@@ -74,6 +74,18 @@ Exemplo de Padronização de Categorias
 <img width="338" height="460" alt="image" src="https://github.com/user-attachments/assets/ca9d56a8-500a-41b2-83bb-6f15ab0d8d0f" />
 <img width="336" height="412" alt="image" src="https://github.com/user-attachments/assets/e5b9ec25-681e-4df0-b212-62d760404e46" />
 
+## Trecho do Código de Padronização
+
+<img width="930" height="365" alt="image" src="https://github.com/user-attachments/assets/93769a81-01d6-4210-8b8d-0865a508ced5" />
+
+Exemplo de regra utilizada para padronizar categorias equivalentes, garantindo consistência nos indicadores e análises.
+
+## Código Fonte
+
+O código completo do processo ETL pode ser consultado em:
+
+📄 power-query/etl-uber.m
+
 
 
 A padronização garante que categorias equivalentes sejam analisadas de forma agrupada, evitando distorções nos indicadores e dashboards.
