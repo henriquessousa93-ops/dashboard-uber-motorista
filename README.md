@@ -55,6 +55,7 @@ O projeto contou com um fluxo de ETL desenvolvido no Power Query, responsável p
 Esse processo permitiu transformar dados originalmente pouco estruturados em informações organizadas e úteis para análise financeira e operacional.
 
 **Antes e Depois do ETL**
+
 Dados extraídos do PDF (Antes)
 
 <img width="1360" height="833" alt="ETL" src="https://github.com/user-attachments/assets/9f70d2b3-6ae1-4f4f-80b5-2040019ded94" />
@@ -63,18 +64,15 @@ Os dados chegam com estrutura pouco organizada, contendo colunas genéricas, cab
 
 Dados tratados e padronizados (Depois)
 
-Inserir imagem da tabela tratada no Power Query
+<img width="1628" height="799" alt="ETL2" src="https://github.com/user-attachments/assets/7c448f54-af56-417f-97b9-3eaf48b2745c" />
 
 Após a aplicação das regras de transformação, os dados passam a possuir estrutura consistente, categorias padronizadas, datas e horários tratados e colunas preparadas para modelagem e análise no Power BI.
 
 Exemplo de Padronização de Categorias
-Valor Original	Valor Padronizado
-UberX	Uber X
-Uberx	Uber X
-uber x	Uber X
-Comfort Planet	Comfort
-Comfort Electric	Comfort
-Uber Planet	Uber X
-Black SUV	Black
+
+<img width="338" height="460" alt="image" src="https://github.com/user-attachments/assets/ca9d56a8-500a-41b2-83bb-6f15ab0d8d0f" />
+<img width="336" height="412" alt="image" src="https://github.com/user-attachments/assets/e5b9ec25-681e-4df0-b212-62d760404e46" />
+
+
 
 A padronização garante que categorias equivalentes sejam analisadas de forma agrupada, evitando distorções nos indicadores e dashboards.
