@@ -84,7 +84,7 @@ Exemplo de regra utilizada para padronizar categorias equivalentes, garantindo c
 
 O código completo do processo ETL pode ser consultado em:
 
-📄 power-query/etl-uber.m
+📄 [etl-uber.m](etl-uber.m)
 
 
 
