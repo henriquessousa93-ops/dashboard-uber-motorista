@@ -54,10 +54,10 @@ O projeto contou com um fluxo de ETL desenvolvido no Power Query, responsável p
 
 Esse processo permitiu transformar dados originalmente pouco estruturados em informações organizadas e úteis para análise financeira e operacional.
 
-Antes e Depois do ETL
+**Antes e Depois do ETL**
 Dados extraídos do PDF (Antes)
 
-Inserir imagem do dado bruto extraído do PDF
+<img width="1360" height="833" alt="ETL" src="https://github.com/user-attachments/assets/9f70d2b3-6ae1-4f4f-80b5-2040019ded94" />
 
 Os dados chegam com estrutura pouco organizada, contendo colunas genéricas, cabeçalhos repetidos e informações distribuídas em diferentes posições da tabela, dificultando análises e consolidações.
 
