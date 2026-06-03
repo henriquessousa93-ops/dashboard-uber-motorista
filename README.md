@@ -60,6 +60,7 @@ Dados extraídos do PDF (Antes)
 
 <img width="1360" height="833" alt="ETL" src="https://github.com/user-attachments/assets/9f70d2b3-6ae1-4f4f-80b5-2040019ded94" />
 
+
 Os dados chegam com estrutura pouco organizada, contendo colunas genéricas, cabeçalhos repetidos e informações distribuídas em diferentes posições da tabela, dificultando análises e consolidações.
 
 Dados tratados e padronizados (Depois)
