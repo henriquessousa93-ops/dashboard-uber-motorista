@@ -54,7 +54,7 @@ O projeto contou com um fluxo de ETL desenvolvido no Power Query, responsável p
 
 Esse processo permitiu transformar dados originalmente pouco estruturados em informações organizadas e úteis para análise financeira e operacional.
 
-**Antes e Depois do ETL**
+### Antes e Depois do ETL
 
 Dados extraídos do PDF (Antes)
 
